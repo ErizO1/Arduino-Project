@@ -1,0 +1,12 @@
+c:\users\fxavi\documents\visual studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe.config
+c:\users\fxavi\documents\visual studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe
+c:\users\fxavi\documents\visual studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.pdb
+c:\users\fxavi\documents\visual studio 2015\Projects\Arduino_Project\Arduino_Service\obj\Debug\Arduino_Service.ProjectInstaller.resources
+c:\users\fxavi\documents\visual studio 2015\Projects\Arduino_Project\Arduino_Service\obj\Debug\Arduino_Service.csproj.GenerateResource.Cache
+c:\users\fxavi\documents\visual studio 2015\Projects\Arduino_Project\Arduino_Service\obj\Debug\Arduino_Service.exe
+c:\users\fxavi\documents\visual studio 2015\Projects\Arduino_Project\Arduino_Service\obj\Debug\Arduino_Service.pdb
+c:\users\fxavi\documents\visual studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_WCF.dll
+c:\users\fxavi\documents\visual studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\MySql.Data.dll
+c:\users\fxavi\documents\visual studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_WCF.pdb
+c:\users\fxavi\documents\visual studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\MySql.Data.xml
+c:\users\fxavi\documents\visual studio 2015\Projects\Arduino_Project\Arduino_Service\obj\Debug\Arduino_Service.csprojResolveAssemblyReference.cache

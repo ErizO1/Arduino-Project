@@ -1,0 +1,44 @@
+﻿Instalando ensamblado 'C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.InstallLog
+   assemblypath = C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe
+Deshaciendo ensamblado 'C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.InstallLog
+   assemblypath = C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe
+Instalando ensamblado 'C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.InstallLog
+   assemblypath = C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe
+Instalando el servicio Arduino...
+Creando el origen de EventLog Arduino en el registro Application...
+Deshaciendo ensamblado 'C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.InstallLog
+   assemblypath = C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe
+Restaurando el registro de eventos al estado anterior para el origen Arduino.
+Desinstalando ensamblado 'C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.InstallLog
+   assemblypath = C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe
+Quitando el origen de EventLog Arduino.
+Se está quitando el servicio Arduino del sistema...
+El servicio Arduino se ha quitado correctamente del sistema.
+Instalando ensamblado 'C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.InstallLog
+   assemblypath = C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe
+Instalando el servicio Arduino...
+El servicio Arduino se ha instalado correctamente.
+Creando el origen de EventLog Arduino en el registro Application...
+Confirmando ensamblado 'C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe'.
+Los parámetros afectados son:
+   logtoconsole = 
+   logfile = C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.InstallLog
+   assemblypath = C:\Users\fxavi\Documents\Visual Studio 2015\Projects\Arduino_Project\Arduino_Service\bin\Debug\Arduino_Service.exe

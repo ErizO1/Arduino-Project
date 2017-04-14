@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="Arduino_WCF.WCF_Windows_Service" CodeBehind="WCF_Windows_Service.svc.cs" %>
